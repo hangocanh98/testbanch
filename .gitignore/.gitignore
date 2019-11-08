@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
 #.abc12345
+#.abc12345
 # Compiled Object files
 *.slo
 *.lo
